@@ -10,7 +10,7 @@ My Coding Projects and Programming practice
 💻 Passionate about Programming and Web Development.
 
  Technical Skills
-
+ 
 - C Programming
 - C++
 - Java
